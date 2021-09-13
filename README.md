@@ -1,5 +1,8 @@
+[![CI](https://github.com/MrXcitement/molecule-test/actions/workflows/main.yml/badge.svg)](https://github.com/MrXcitement/molecule-test/actions/workflows/main.yml)
+
 # Molecule Test
 A simple project to test how to use Molecule to test a playbook.
+
 The default *scenario* use Docker to run a container that will be the target of the Ansible playbook.
 I expect that as I use this project to learn and test Molecule, I will create additional scenarios for things like *Vagrant* or *AWS* etc.
 
